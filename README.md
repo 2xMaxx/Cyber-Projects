@@ -13,4 +13,4 @@ Currently studying Cyber-Security & SOC Analyst at John Bryce College.
 
 ## Projects
 - Memory Dump Analyzer Script - Extracting every piece of information possible
-- Remote scanning from a VPS & Routing traffic through TOR 
+- Remote Scanning script from a VPS & Routing traffic through TOR 
