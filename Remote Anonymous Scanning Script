@@ -1,0 +1,31 @@
+The script project aimed to establish a communication with a remote server and executing automatic tasks anonymously. Creating automation that would allow executing commands on the local devices but would be executed on the remote server , Scanning targets and collecting information.
+
+Tools Used:
+BASH , AnonSurf , SSH-Pass , Nmap , Geoiplookup , Whois
+
+Link to youtube video:  https://www.youtube.com/watch?v=KK5Lp03z0KA
+Also adding steps with pictures below.
+
+Steps:
+
+1. Updating and checking if the essential tools for the entire script are installed and if not then installing them.
+
+https://github.com/user-attachments/assets/71006556-4485-4bf5-a7c7-69c6a5baa8e0
+
+1. Activating Anon Surf for anonymous connection through TOR .
+
+https://github.com/user-attachments/assets/5352a4c1-9739-472d-82ea-e4a1dd92a151
+
+1. Showing the spoofed country .
+Then asking for the IP of the VPS machine ,
+Asking for user name and password for the VPS machine, then connecting .
+Then asking you to enter the IP or Domain you want to scan and saving.
+All the info entered by the user is being saved on the local machine.
+
+https://github.com/user-attachments/assets/fbe28686-c283-4f8c-8f38-941ea246ce9f
+
+1. Collected data :
+
+https://github.com/user-attachments/assets/f630bf20-1104-4b7f-8d56-8eb38d41899b
+
+https://github.com/user-attachments/assets/9784b85c-eef4-4d0f-ae51-673a6783718e
